@@ -4,6 +4,7 @@ The Hangman  Guessing Game is a simple Python-based program that selects a rando
 
 ###Key Learning Points:
 
--Working with lists and random selection in Python.
+-Working with lists, random selection and loops in Python.
 -Validating user input and handling different cases.
 -Using conditional statements for branching logic.
+-Writing functions for better code organisation
